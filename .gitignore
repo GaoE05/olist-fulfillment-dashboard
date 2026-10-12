@@ -1,0 +1,6 @@
+.venv/
+.uv-cache/
+.matplotlib/
+raw/
+__pycache__/
+.DS_Store

@@ -1,0 +1,9 @@
+[project]
+name = "olist-fulfillment-dashboard"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.9.0",
+    "pandas>=2.2.0",
+    "streamlit>=1.50.0",
+]

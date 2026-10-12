@@ -1,6 +1,6 @@
 # Olist Fulfillment Pulse
 
-**Deployed app:** add the Streamlit URL here after deployment  
+**Deployed app:** https://olist-fulfillment-dashboard-sfsfpaz3dwqbxe7gb4ml45.streamlit.app/  
 **Team:** Team Olist Ops
 
 ## 1. Dataset and decision-maker
@@ -53,4 +53,3 @@ To recreate the compact dashboard file after downloading the original Kaggle CSV
 ```bash
 uv run python prepare_data.py
 ```
-
